@@ -14,7 +14,7 @@ A simple web-based job portal connecting employers and job seekers.
 - SCan apply for jobs.
 
 Mail server
-Details: SMTP Server Hostname : smtp.freesmtpservers.com Port : 25 Auth : None Website: https://www.wpoven.com/tools/free-smtp-server-for-testing
+
 MAIL_MAILER=smtp
 MAIL_HOST=sandbox.smtp.mailtrap.io
 MAIL_PORT=2525
